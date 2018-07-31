@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "react": "^16.0.0",
-    "react-native": "^0.51.0"
+    "react-native": "git+https://git@github.com/akv-platform/forked-react-native-for-testing.git"
   }
 }

@@ -1,3 +1,3 @@
-rootProject.name = 'TestProject'
+rootProject.name = 'ReactNativeEjected056'
 
 include ':app'
